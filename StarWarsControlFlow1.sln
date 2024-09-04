@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWarsControlFlow1", "StarWarsControlFlow1\StarWarsControlFlow1.csproj", "{BAD41756-722D-4E93-B957-BBC997FCF3E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAD41756-722D-4E93-B957-BBC997FCF3E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD41756-722D-4E93-B957-BBC997FCF3E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD41756-722D-4E93-B957-BBC997FCF3E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD41756-722D-4E93-B957-BBC997FCF3E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E15BC21-40F3-4371-A895-C7430B3BB085}
+	EndGlobalSection
+EndGlobal
